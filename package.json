@@ -1,6 +1,6 @@
 {
   "name": "angular2-swiper-fc",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "scripts": {
     "build": "gulp build",
     "build:watch": "gulp",
@@ -26,12 +26,12 @@
     "url": "https://github.com/FabrizioCaldarelli/angular2-swiper/issues"
   },
   "devDependencies": {
-    "@angular/common": "^2.3.1",
-    "@angular/compiler": "^2.3.1",
-    "@angular/compiler-cli": "^2.3.1",
-    "@angular/core": "^2.3.1",
-    "@angular/platform-browser": "^2.3.1",
-    "@angular/platform-browser-dynamic": "^2.3.1",
+    "@angular/common": "^4.0.0",
+    "@angular/compiler": "^4.0.0",
+    "@angular/compiler-cli": "^4.0.0",
+    "@angular/core": "^4.0.0",
+    "@angular/platform-browser": "^4.0.0",
+    "@angular/platform-browser-dynamic": "^4.0.0",
     "@compodoc/compodoc": "^1.0.0-beta.7",
     "@types/jasmine": "2.5.38",
     "@types/node": "~6.0.60",
@@ -54,11 +54,11 @@
     "protractor": "~5.1.0",
     "rollup": "^0.41.6",
     "run-sequence": "^1.2.2",
-    "rxjs": "^5.0.1",
+    "rxjs": "^5.1.0",
     "ts-node": "~2.0.0",
     "tslint": "~4.5.0",
     "typescript": "~2.2.0",
-    "zone.js": "^0.7.2"
+    "zone.js": "^0.8.4"
   },
   "engines": {
     "node": ">=6.0.0"

@@ -1,6 +1,6 @@
 {
   "name": "angular2-swiper-fc",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "repository": {
     "type": "git",
     "url": "https://github.com/FabrizioCaldarelli/angular2-swiper"
@@ -18,8 +18,8 @@
   "module": "angular2-swiper-fc.js",
   "typings": "angular2-swiper-fc.d.ts",
   "peerDependencies": {
-    "@angular/core": "^2.3.1",
-    "rxjs": "^5.0.1",
-    "zone.js": "^0.7.2"
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
   }
 }
