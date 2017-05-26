@@ -1,16 +1,16 @@
 {
   "name": "angular2-swiper-fc",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "repository": {
     "type": "git",
     "url": "https://github.com/FabrizioCaldarelli/angular2-swiper"
   },
   "author": "Kapil Sachdeva",
-    "keywords": [
-        "angular2",
-        "swiper",
-        "component"
-    ],
+  "keywords": [
+    "angular2",
+    "swiper",
+    "component"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/FabrizioCaldarelli/angular2-swiper/issues"
@@ -21,5 +21,8 @@
     "@angular/core": "^4.0.0",
     "rxjs": "^5.1.0",
     "zone.js": "^0.8.4"
+  },
+  "dependencies": {
+    "swiper": "^3.4.2"
   }
 }
